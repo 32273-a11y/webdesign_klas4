@@ -9,8 +9,8 @@ Bij deze repository horen:
 
 ## Leerlinggegevens
 
-Naam:  
-Klas:
+Naam:Twan Faro  
+Klas:Nv4b
 
 ## Aan de slag
 
