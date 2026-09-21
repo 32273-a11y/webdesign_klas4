@@ -12,3 +12,8 @@ h1 {
 p {
     font-size: 17px;
 }
+article { 
+    background-color: rgb(228, 213, 148); 
+    padding: 20px; 
+    margin: 2px; 
+} 
